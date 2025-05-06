@@ -6,18 +6,9 @@
 
 # BitLocker-Highlights
 
-
-
-➜ Handled BitLocker recovery to resolve encryption-related issues, ensuring data security.
-
-➜ Implemented file encryption and data protection using BitLocker, ensuring data security and confidentiality through endpoint protection software.
-
-
-➜ Enabled and verified full-disk encryption with BitLocker on sensitive systems to protect data at rest across all organization-issued laptops.
-
-
-
-
+➜ Enabled and verified full-disk encryption with BitLocker on sensitive systems to protect data at rest across all organization-issued laptops.  
+➜ Implemented file-level encryption and data protection using BitLocker to ensure confidentiality and compliance with security policies.  
+➜ Handled BitLocker recovery to resolve encryption-related issues, minimizing downtime while maintaining data security.
 
 
 
