@@ -13,7 +13,7 @@
 ➜ Implemented file encryption and data protection using BitLocker, ensuring data security and confidentiality through endpoint protection software.
 
 
-
+➜ Enabled and verified full-disk encryption with BitLocker on sensitive systems to protect data at rest across all organization-issued laptops.
 
 
 
