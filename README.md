@@ -4,14 +4,15 @@
   </a>
 </p>
 
-# BitLocker-Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/BitLocker-Highlights/main/images/%20BitLocker%20Highlights.png" alt="BitLocker Highlights" width="600">
+</p>
 
-➜ Enabled and verified full-disk encryption with BitLocker on sensitive systems to protect data at rest across all organization-issued laptops.  
-➜ Implemented file-level encryption and data protection using BitLocker to ensure confidentiality and compliance with security policies.  
-➜ Handled BitLocker recovery to resolve encryption-related issues, minimizing downtime while maintaining data security.
+> This section outlines hands-on experience implementing BitLocker to secure sensitive data through full-disk and file-level encryption.
 
-
-
+- Enabled and verified full-disk encryption on organizational laptops using BitLocker to protect data at rest.
+- Applied file-level encryption to ensure data confidentiality and compliance with internal security policies.
+- Resolved encryption-related issues by managing BitLocker recovery processes, minimizing downtime while maintaining security.
 
 
 
